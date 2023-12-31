@@ -1,5 +1,9 @@
 # Feed-Forward-Neural-Network-using-FMNIST-Dataset
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](Feed_Forward_Neural_Network_using_the_FMNIST_Dataset.ipynb)
+
+:star:**Please star the repository if you happen to like the project**
+
 The ipynb file contains the solution of the attached problem statement.
 
 It contains the implementation of a Feed Forward Neural Network using Keras on the FMNIST Dataset.
